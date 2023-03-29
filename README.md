@@ -6,8 +6,8 @@
 
 # Installation
 ```bash
-git clone https://github.com/TeqN2022/portscanner.git
-cd portscanner
+git clone https://github.com/TeqN2022/port-scanner.git
+cd port-scanner
 ```
 ```py
 py -m pip install -r requirements.txt
